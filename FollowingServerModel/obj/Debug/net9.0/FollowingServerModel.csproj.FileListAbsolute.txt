@@ -1,0 +1,11 @@
+C:\Users\1\Desktop\Project\FollowingServer-core\FollowingServerModel\bin\Debug\net9.0\FollowingServerModel.deps.json
+C:\Users\1\Desktop\Project\FollowingServer-core\FollowingServerModel\bin\Debug\net9.0\FollowingServerModel.dll
+C:\Users\1\Desktop\Project\FollowingServer-core\FollowingServerModel\bin\Debug\net9.0\FollowingServerModel.pdb
+C:\Users\1\Desktop\Project\FollowingServer-core\FollowingServerModel\obj\Debug\net9.0\FollowingServerModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Project\FollowingServer-core\FollowingServerModel\obj\Debug\net9.0\FollowingServerModel.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Project\FollowingServer-core\FollowingServerModel\obj\Debug\net9.0\FollowingServerModel.AssemblyInfo.cs
+C:\Users\1\Desktop\Project\FollowingServer-core\FollowingServerModel\obj\Debug\net9.0\FollowingServerModel.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Project\FollowingServer-core\FollowingServerModel\obj\Debug\net9.0\FollowingServerModel.dll
+C:\Users\1\Desktop\Project\FollowingServer-core\FollowingServerModel\obj\Debug\net9.0\refint\FollowingServerModel.dll
+C:\Users\1\Desktop\Project\FollowingServer-core\FollowingServerModel\obj\Debug\net9.0\FollowingServerModel.pdb
+C:\Users\1\Desktop\Project\FollowingServer-core\FollowingServerModel\obj\Debug\net9.0\ref\FollowingServerModel.dll
