@@ -7,6 +7,21 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="FollowingServer-core\**" />
+    <Compile Remove="FollowingServerDAL\**" />
+    <Compile Remove="FollowingServer\**" />
+    <Content Remove="FollowingServer-core\**" />
+    <Content Remove="FollowingServerDAL\**" />
+    <Content Remove="FollowingServer\**" />
+    <EmbeddedResource Remove="FollowingServer-core\**" />
+    <EmbeddedResource Remove="FollowingServerDAL\**" />
+    <EmbeddedResource Remove="FollowingServer\**" />
+    <None Remove="FollowingServer-core\**" />
+    <None Remove="FollowingServerDAL\**" />
+    <None Remove="FollowingServer\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="dbup-sqlserver" Version="6.0.16" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0">
