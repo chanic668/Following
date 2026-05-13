@@ -1,6 +1,0 @@
-C:\Users\1\Desktop\Project\FollowingServer-core\FollowingServer\obj\Debug\net8.0\FollowingServerApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\1\Desktop\Project\FollowingServer-core\FollowingServer\obj\Debug\net8.0\FollowingServerApi.AssemblyInfoInputs.cache
-C:\Users\1\Desktop\Project\FollowingServer-core\FollowingServer\obj\Debug\net8.0\FollowingServerApi.AssemblyInfo.cs
-C:\Users\1\Desktop\Project\FollowingServer-core\FollowingServer\obj\Debug\net8.0\FollowingServerApi.csproj.CoreCompileInputs.cache
-C:\Users\1\Desktop\Project\FollowingServer-core\FollowingServer\obj\Debug\net8.0\FollowingServerApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\1\Desktop\Project\FollowingServer-core\FollowingServer\obj\Debug\net8.0\FollowingServerApi.csproj.AssemblyReference.cache
